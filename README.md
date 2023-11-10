@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pragyan</h1>
 <h3 align="center">A driven and passionate Software Developer</h3>
 
-- 🔭 I’m currently working on [Pordle](https://pordlev2.netlify.app/)
+- 🔭 I’m currently working on [HealthSage](https://github.com/PragyanD/HealthSage)
 
-- 🌱 I’m currently learning **Rust, GraphQL**
+- 🌱 I’m currently learning **Flutter, Rust**
 
 - 📫 How to reach me **pragyan0506@gmail.com**
 
