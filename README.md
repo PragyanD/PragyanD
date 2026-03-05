@@ -1,6 +1,6 @@
 # Hey, I'm Pragyan 👋
 
-Computer Science student building things at the intersection of systems, ML, and developer tools.
+Software Engineer building things at the intersection of systems, ML, and developer tools.
 
 ## What I'm working on
 - 🖥️ [PDOS](https://pragyand.github.io) — my portfolio as a simulated OS desktop
