@@ -4,7 +4,6 @@ Software Engineer building things at the intersection of systems, ML, and develo
 
 ## What I'm working on
 - 🖥️ [PDOS](https://pragyand.github.io) — my portfolio as a simulated OS desktop
-- 🦀 Learning Rust via [The Rust Programming Language](https://github.com/PragyanD/RustProgrammingLanguage)
 
 ## Things I've built
 | Project | What it does | Stack |
